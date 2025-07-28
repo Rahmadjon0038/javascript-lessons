@@ -77,3 +77,5 @@
 
 // let son = 12
 // console.log(eval('son+13'))  //
+
+'fghj'
